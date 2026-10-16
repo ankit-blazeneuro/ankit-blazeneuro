@@ -67,7 +67,7 @@ Building things from the CPU up, and from the database to the browser.
 
 - 🌐 [blazeneuro.com](https://blazeneuro.com)
 - 🌐 [ankit.blazeneuro.com](https://ankit.blazeneuro.com)
-- 📧 your.work.ankit.mail@gmail.com
+- 📧 work.ankit.mail@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/iamankitkm)
 
 <div align="center">

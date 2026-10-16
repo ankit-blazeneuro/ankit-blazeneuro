@@ -28,7 +28,6 @@ Building things from the CPU up, and from the database to the browser.
 | **IRIS** | Personal AI assistant |
 | **Electron IDE** | Lightweight cross-platform IDE with Python integration |
 | **OSM Map Server** | Self-hosted OpenStreetMap tile server and renderer, written in C |
-| **CPU from Scratch** | Building a CPU from logic gates up |
 
 > Pin your favourite repositories on your profile so that this table matches what visitors see.
 
@@ -53,8 +52,8 @@ Building things from the CPU up, and from the database to the browser.
 
 <div align="center">
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit-blazeneuro&show_icons=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-blazeneuro&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -67,8 +66,9 @@ Building things from the CPU up, and from the database to the browser.
 ## Get in Touch
 
 - 🌐 [blazeneuro.com](https://blazeneuro.com)
-- 📧 your.email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
+- 🌐 [ankit.blazeneuro.com](https://ankit.blazeneuro.com)
+- 📧 your.work.ankit.mail@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/iamankitkm)
 
 <div align="center">
 

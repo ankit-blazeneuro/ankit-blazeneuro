@@ -12,7 +12,7 @@ Building things from the CPU up, and from the database to the browser.
 
 ## About Me
 
-- 🎓 1st-year B.Tech, Electronics and Computer Engineering at **ABES Engineering College** (AKTU)
+- 🎓 1st-year B.Tech, Electrical and Computer Engineering at **ABES Engineering College** (AKTU)
 - 📍 Based between **Gurgaon and Delhi**, India
 - 🗣️ Hindi and English
 - 🧠 Deeply interested in **AI/ML**: I've trained GPT-style models from scratch with PyTorch
